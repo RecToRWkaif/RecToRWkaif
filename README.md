@@ -3,6 +3,9 @@
 
 ## YO👋 I'm begginer .NET Develop_er (Profile at HeadHunter = click_by.gif) 
 
+## When did you decide to start a new life🧑🏻‍💻
+![C#Curs](https://img.shields.io/badge/-CLICK_HERE-090909?style=for-the-badge&logo=youtube&logoColor=db002c)
+
 ## Languages and Tools 
 ![C#](https://img.shields.io/badge/-C_Sharp-090909?style=for-the-badge&logo=csharp&logoColor=9c3898)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=3d8cc4)
@@ -12,4 +15,7 @@
 ![JS](https://img.shields.io/badge/-Java_Script-090909?style=for-the-badge&logo=javascript&logoColor=2eeff00)
 ![.NET](https://img.shields.io/badge/-.NET-090909?style=for-the-badge&logo=.NET&logoColor=)
 
-My social medias    
+## 🌐My social medias 👩🏻‍💻  
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/moutains_sport)
+[![VK](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=vk&logoColor=31adf5)](https://vk.com/r3ctor)
+[![VK](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=vk&logoColor=31adf5)]()
