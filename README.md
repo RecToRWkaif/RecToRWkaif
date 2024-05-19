@@ -1,7 +1,7 @@
 
 [![Header](https://github.com/RecToRWkaif/RecToRWkaif/blob/main/assets/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)](https://hh.ru/applicant/resumes/view?resume=d87d396eff0b6c16800039ed1f48347349356e&customDomain=1)
 
-## YO👋 I'm begginer .NET Develop_er (Profile at HeadHunter = click_by.gif) 
+## YO👋 I'm begginer .NET Develop_er (Profile at HeadHunter - [click_by.gif](https://balashikha.hh.ru/resume/d87d396eff0b6c16800039ed1f48347349356e)) 
 
 ## When did you decide to start a new life🧑🏻‍💻
 ![C#Curs](https://img.shields.io/badge/-CLICK_HERE-090909?style=for-the-badge&logo=youtube&logoColor=db002c)
@@ -17,4 +17,4 @@
 
 ## 🌐My social medias for communication👩🏻‍💻  
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/moutains_sport)
-[![VK](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=vk&logoColor=31adf5)](https://vk.com/r3ctor)
+[![VK](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=vk&logoColor=31adf5)](https://vk.com/r3ctor) 
