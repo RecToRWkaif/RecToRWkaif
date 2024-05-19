@@ -4,7 +4,7 @@
 ## YO👋 I'm begginer ©# .NET Develop_er(Profile at HeadHunter - [click_by.gif](https://balashikha.hh.ru/resume/d87d396eff0b6c16800039ed1f48347349356e)) 
 
 ## When did you decide to start a new life🧑🏻‍💻
-![C#Curs](https://img.shields.io/badge/-CLICK_HERE-090909?style=for-the-badge&logo=youtube&logoColor=db002c)
+[![C#Curs](https://img.shields.io/badge/-CLICK_HERE-090909?style=for-the-badge&logo=youtube&logoColor=db002c)](https://www.youtube.com/watch?v=KyFWqbRfWIA&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N)
 
 ## Languages and Tools 
 ![C#](https://img.shields.io/badge/-C_Sharp-090909?style=for-the-badge&logo=csharp&logoColor=9c3898)
