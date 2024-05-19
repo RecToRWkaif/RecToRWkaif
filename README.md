@@ -15,7 +15,6 @@
 ![JS](https://img.shields.io/badge/-Java_Script-090909?style=for-the-badge&logo=javascript&logoColor=2eeff00)
 ![.NET](https://img.shields.io/badge/-.NET-090909?style=for-the-badge&logo=.NET&logoColor=)
 
-## 🌐My social medias 👩🏻‍💻  
+## 🌐My social medias for communication👩🏻‍💻  
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/moutains_sport)
 [![VK](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=vk&logoColor=31adf5)](https://vk.com/r3ctor)
-[![VK](https://img.shields.io/badge/-VKONTAKTE-090909?style=for-the-badge&logo=vk&logoColor=31adf5)]()
